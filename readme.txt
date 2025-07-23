@@ -6,3 +6,4 @@ RRC Check 3
 RRC Check 5
 commit check PR
 commit check PR1
+squash merge check
