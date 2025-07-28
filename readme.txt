@@ -13,3 +13,4 @@ check12345 - 3
 check12345 - 4
 commit_merge_check_1
 commit_merge_check_2
+commit_merge_check_3
